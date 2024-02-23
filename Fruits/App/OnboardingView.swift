@@ -17,6 +17,8 @@ struct OnboardingView: View {
         }//: TAB
         .tabViewStyle(PageTabViewStyle())
         .padding(.vertical,20)
+        .padding(.horizontal,20)
+       
     }
 }
 
